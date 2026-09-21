@@ -1,3 +1,16 @@
 User-agent: *
 Allow: /
+Disallow: /assets/lang/
+Disallow: /*lang=kk
+
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /assets/lang/
+Disallow: /*lang=kk
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+Disallow: /assets/lang/
+Disallow: /*lang=kk
+
 Sitemap: https://coolklimat.kz/sitemap.xml
